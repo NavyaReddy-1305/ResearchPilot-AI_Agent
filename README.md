@@ -279,7 +279,7 @@ AI & Intelligent Systems Enthusiast
 
 ---
 
-# 📌 Project Highlights for Resume
+# 📌 Project Highlights 
 
 - Built full-stack production-ready AI research platform
 - Implemented RAG pipeline with Llama 3.3 70B
